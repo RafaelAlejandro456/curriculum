@@ -10,3 +10,5 @@ South Park Elementary
 ## Secundaria
 Elmore
 
+## Preparatoria
+East High School de norte
